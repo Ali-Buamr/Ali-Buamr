@@ -74,7 +74,6 @@ Monitoring with Datadog & NewRelic
 ---
 
 ### 📊 GitHub Analytics
-<img src="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs" alt="GitHub stats" height="180"/>  
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>  
 
 ---
